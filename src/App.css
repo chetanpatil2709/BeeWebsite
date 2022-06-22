@@ -120,16 +120,19 @@ ul {
     display: grid;
     gap: 10px;
     padding-left: 20px;
-    font-size: 20px;
-    cursor: pointer;
-    color: #e3e3e3;
     padding-bottom: 20px;
 }
 
-#navbar_collapse .nav li :hover {
-    color: #fda729;
+#navbar_collapse .nav a {
+    text-decoration: none !important;
+    font-size: 20px;
+    cursor: pointer;
+    color: #e3e3e3;
 }
 
+#navbar_collapse .nav li a:hover {
+    color: #fda729;
+}
 @media screen and (max-width:768px) {
     .header {
         background-color: #181818;
