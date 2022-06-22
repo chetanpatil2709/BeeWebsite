@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BeeWebsite/static/css/main.d6b8ac75.css",
+    "main.css": "/BeeWebsite/static/css/main.3e035b44.css",
     "main.js": "/BeeWebsite/static/js/main.769f5220.js",
     "static/js/787.b3f49374.chunk.js": "/BeeWebsite/static/js/787.b3f49374.chunk.js",
     "static/media/know-more-about-us.webp": "/BeeWebsite/static/media/know-more-about-us.490385ee6dc5e07df58b.webp",
@@ -24,12 +24,12 @@
     "static/media/construction.png": "/BeeWebsite/static/media/construction.b5adabc824d315e728ec.png",
     "static/media/architecture.png": "/BeeWebsite/static/media/architecture.5fcc854d1946331abb48.png",
     "index.html": "/BeeWebsite/index.html",
-    "main.d6b8ac75.css.map": "/BeeWebsite/static/css/main.d6b8ac75.css.map",
+    "main.3e035b44.css.map": "/BeeWebsite/static/css/main.3e035b44.css.map",
     "main.769f5220.js.map": "/BeeWebsite/static/js/main.769f5220.js.map",
     "787.b3f49374.chunk.js.map": "/BeeWebsite/static/js/787.b3f49374.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6b8ac75.css",
+    "static/css/main.3e035b44.css",
     "static/js/main.769f5220.js"
   ]
 }
